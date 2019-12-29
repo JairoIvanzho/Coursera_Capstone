@@ -1,0 +1,11 @@
+Introduction/Business Problem
+
+A colombian freelancer is looking for a Neighborhood to live in Cartagena or Bogotá, however, he needs this special facilities:
+1. Vegetarian or Vegan Restaurant, because He can not eat animal protein (meat, fish, chicken, etc)
+2. A gym or Public Park to make physic exercise.
+3. Farmer market to buy the vegetables and fruit for his diet.
+4. Pharmacy to buy medicament to his allergy
+
+The colombian ask to help for us to, with cluster models apllied in the Data Science Program, we can recommend him the Neighborhoods than accomodate to his requests.
+
+Note: We will not evaluate the security or living price in the Neighborhoods, only the closer venues
